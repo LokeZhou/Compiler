@@ -1,0 +1,36 @@
+struct hh
+{
+	int a;
+	char b,c;
+};
+
+
+int main()
+{
+	int e,f,g,i,j,k; 
+        float h;
+	char w,v; 
+       
+	e = 2;
+	f = 1;
+	g = 0;
+      
+        cout<<e+g;
+
+	if (g+f)
+	{
+	g = 3*5-e;
+        i=3+5;
+        j=i;
+        k=5-3;
+      
+	}
+
+	while(e-2*f)
+	{
+	g=e+f;
+	}
+	w=3;
+     
+	return 0;
+}
